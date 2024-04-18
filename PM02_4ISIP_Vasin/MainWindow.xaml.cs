@@ -39,6 +39,10 @@ namespace PM02_4ISIP_Vasin
 
             // Вывод результата
             txtResult.Text = result.Item1 + "\n" + "Общая стоимость: " + result.Item2;
+
+            txtCostMatrix.Clear();
+            txtSupply.Clear();
+            txtDemand.Clear();
         }
         private void LoadData_Click(object sender, RoutedEventArgs e)
         {
