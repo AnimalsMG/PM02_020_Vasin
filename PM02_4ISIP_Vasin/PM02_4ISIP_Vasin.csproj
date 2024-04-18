@@ -90,6 +90,10 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="Доп файлы%28тест, диаграмма%29\Варианты использования.pdf" />
+    <None Include="Доп файлы%28тест, диаграмма%29\Варинаты использования.vsdx" />
+    <None Include="Доп файлы%28тест, диаграмма%29\Тестовые наборы.xlsx" />
+    <None Include="Доп файлы%28тест, диаграмма%29\Тестовые сценарии.docx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

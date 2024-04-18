@@ -81,7 +81,8 @@ namespace PM02_4ISIP_Vasin
             }
         }
 
-        private Tuple<string, int> SolveTransportProblem(int[] demand, int[] supply, int[][] costMatrix)
+
+        public Tuple<string, int> SolveTransportProblem(int[] demand, int[] supply, int[][] costMatrix)
         {
             int totalDemand = demand.Sum();
             int totalSupply = supply.Sum();
