@@ -135,7 +135,7 @@ namespace PM02_4ISIP_Vasin
                 totalCost += amountTransferred * costMatrix[minCostRow][minCostCol];
             }
 
-            string resultString = "Опорный план:\n";
+            string resultString = "Опорный план: \n";
 
             for (int i = 0; i < numRows; i++)
             {
