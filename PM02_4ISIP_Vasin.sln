@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PM02_4ISIP_Vasin", "PM02_4ISIP_Vasin\PM02_4ISIP_Vasin.csproj", "{58C8B90B-3955-4591-8C3D-18EA77FD5E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{2ACC3243-8E7D-4EE0-BCBA-F0DBC9C7428A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C8B90B-3955-4591-8C3D-18EA77FD5E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C8B90B-3955-4591-8C3D-18EA77FD5E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C8B90B-3955-4591-8C3D-18EA77FD5E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C8B90B-3955-4591-8C3D-18EA77FD5E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACC3243-8E7D-4EE0-BCBA-F0DBC9C7428A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACC3243-8E7D-4EE0-BCBA-F0DBC9C7428A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACC3243-8E7D-4EE0-BCBA-F0DBC9C7428A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACC3243-8E7D-4EE0-BCBA-F0DBC9C7428A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {278E6A1D-5F36-41A6-A9F3-EA9BF238C43A}
+	EndGlobalSection
+EndGlobal
